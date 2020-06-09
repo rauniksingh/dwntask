@@ -1,0 +1,11 @@
+{
+   "server": {
+      "baseUrl": "http://192.168.40.118",
+      "port": 8051
+   },
+   "MongoDB": {
+      "DatabaseName": "dwni"
+   }
+}
+
+
